@@ -1,2 +1,2 @@
 # Missing_no_sequence
-Implementation in c++
+Find the missing number in Arithmetic Progression.
